@@ -1,0 +1,13 @@
+{
+  "id" : "https://caroheuberger.github.io/Kurs/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in caroheuberger/Kurs project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://caroheuberger.github.io/Kurs/manifests/manifest.json",
+    "label" : "Chur, Staatsarchiv Graubünden, A 295"
+  } ]
+}
